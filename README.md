@@ -7,14 +7,17 @@
 #### ALTER – Modifica um objeto dentro do banco de dados;
 #### DROP – Exclui um objeto dentro do banco de dados.
 
+
 ### GRUPO DML - Data Manipulation Language - interação com dados
 #### INSERT – Adiciona uma nova linha em uma tabela;
 #### UPDATE – Atualiza os valores das linhas de uma tabela;
 #### DELETE – Exclui linhas de uma tabela.
 
+
 ### GRUPO TCL - Transaction Control Language - comandos para controle de transações no SQL.
 #### COMMIT – Salva as alterações no banco de dados;
 #### ROLLBACK – Desfaz as alterações no banco de dados.
+
 
 ### GRUPO DCL -  Data Control Language - comandos para controle de segurança.
 #### GRANT – Dá privilégios a um usuário;
