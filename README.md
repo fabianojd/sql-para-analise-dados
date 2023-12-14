@@ -25,6 +25,6 @@
 
 
 ### Fontes:
-https://novatec.com.br/livros/sql-para-analise-dados/
-https://github.com/cathytanimura/sql_book
-
+#### https://github.com/cathytanimura/sql_book
+#### https://www.hashtagtreinamentos.com/grupos-de-comandos-no-sql?gad_source=1&gclid=Cj0KCQiAyeWrBhDDARIsAGP1mWR4lT_Q130uNNCvEVNCEW2Gy0Pt010XxMeNLzNPNRMFpeRNm8suUXwaAheoEALw_wcB
+#### https://novatec.com.br/livros/sql-para-analise-dados/
